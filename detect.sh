@@ -2,7 +2,7 @@
 
 #	Detect and list possible correct encodings based on if a pattern is found
 
-#	Copyright (C) 2017 Michał Nieznańs
+#	Copyright (C) 2017 Michał Nieznański
 #	This program is free software: you can redistribute it and/or modify
 #	it under the terms of the GNU General Public License as published by
 #	the Free Software Foundation, either version 3 of the License, or
